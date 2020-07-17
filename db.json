@@ -1,0 +1,16 @@
+{
+    "users":[
+         {
+          "id": 1,
+          "nome": "loja fortaleza",
+          "local": "fortaleza",
+          "data": "10/05/2020"
+        },
+        {
+          "id": 2,
+          "nome": "loja natal",
+          "local": "natal",
+          "data": "14/05/2020"
+        }
+      ]
+}
