@@ -11,6 +11,72 @@
           "nome": "loja natal",
           "local": "natal",
           "data": "14/05/2020"
+        },
+        {
+          "id": 3,
+          "nome": "loja santa catarina",
+          "local": "jurere",
+          "data": "14/05/2020"
+        },
+        {
+          "id": 4,
+          "nome": "loja natal",
+          "local": "natal",
+          "data": "14/05/2020"
+        },
+        {
+          "id": 5,
+          "nome": "loja espirito santos",
+          "local": "vitoria",
+          "data": "14/05/2020"
+        },
+        {
+          "id": 6,
+          "nome": "loja bahia",
+          "local": "salvador",
+          "data": "14/08/2020"
+        },
+        {
+          "id": 9,
+          "nome": "loja joão pessoa",
+          "local": "paraiba",
+          "data": "24/11/2020"
+        },
+        {
+          "id": 7,
+          "nome": "loja maranhao",
+          "local": "terezina",
+          "data": "14/05/2020"
+        },
+        {
+          "id": 8,
+          "nome": "loja recife",
+          "local": "recife",
+          "data": "10/01/2002"
+        },
+        {
+          "id": 10,
+          "nome": "loja natal",
+          "local": "natal",
+          "data": "14/05/2020"
+        },
+        {
+          "id": 11,
+          "nome": "loja espirito santo II",
+          "local": "vitoria II",
+          "data": "25/05/2020"
+        },
+        {
+          "id": 12,
+          "nome": "loja df",
+          "local": "brasilia",
+          "data": "14/05/2020"
+        },
+        {
+          "id": 13,
+          "nome": "goiana",
+          "local": "goiasas",
+          "data": "25/05/2020"
         }
       ]
 }
